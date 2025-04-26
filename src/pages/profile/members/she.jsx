@@ -115,7 +115,7 @@ const SheProfile = () => {
             <div className="max-w-3xl text-center md:text-left">
               <h2 className="text-4xl md:text-5xl font-bold text-lime-400 mb-8">About Me</h2>
               <p className="text-gray-400 text-xl md:text-2xl leading-relaxed">
-                I am a junior web developer who enjoys crafting functional and user-friendly websites, focusing on HTML, JavaScript, PHP, and backend logics to build dynamic and efficient web solutions.
+                I am a Back-End Developer who enjoys crafting functional and user-friendly websites, focusing on HTML, JavaScript, PHP, and backend logics to build dynamic and efficient web solutions.
               </p>
             </div>
           </div>

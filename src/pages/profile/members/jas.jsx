@@ -59,7 +59,7 @@ const JasProfile = () => {
         Jasmin Marie Gallardo
       </h1>
       <p className="text-gray-300 mt-5 sm:mt-6 md:mt-8 text-lg sm:text-xl lg:text-2xl font-semibold">
-        Full-Stack Developer
+        Front-End Developer
       </p>
 
       {/* Social Icons */}
@@ -126,7 +126,7 @@ const JasProfile = () => {
             <div className="max-w-3xl text-center md:text-left">
             <h2 className="text-4xl md:text-5xl font-bold text-lime-400 mb-8">About Me</h2>
             <p className="text-gray-400 text-xl md:text-2xl leading-relaxed">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+            I am a Front-End Developer specializing in creating responsive and user-friendly website using HTML and CSS and a little bit of java.
             </p>
             </div>
             
